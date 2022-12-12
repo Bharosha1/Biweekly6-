@@ -1,9 +1,9 @@
 
     using System;
 
-namespace Bharosha Soccer Club
+namespace BharoshaBudhathoki Soccer Club
 {
-    class Bharosha Program
+    class BharoshaBudhathoki Program
     {
 
         public Program(int players, string name, string registration, string jersey, double price)
