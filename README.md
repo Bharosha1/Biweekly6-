@@ -1,4 +1,4 @@
-# Biweekly6-
+
     using System;
 
 namespace Bharosha Soccer Club
