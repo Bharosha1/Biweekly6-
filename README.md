@@ -25,12 +25,12 @@ namespace Bharosha Soccer Club
         {
             int i = 0;
             double total = 0;
-            int jerseyamt = 100;
+            int jerseyamt = 200;
             String Name = "";
             String Registration = "";
             String Jersey = "";
-            int initalamt_kids = 150;
-            int initalamt_adult = 230;
+            int initalamt_kids = 160;
+            int initalamt_adult = 320;
             
             //these lines of codes are for aligning items to center and contains heading portion
             string s = "*****Welcome to TigerSoccerClub*****";
